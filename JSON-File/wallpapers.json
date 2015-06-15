@@ -1,14 +1,65 @@
 {
     "wallpapers": [
-            {
+			{
                         "author": "Matt Fidoe",
                         "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material1.jpg",
                         "name": "Material1"
-						},
-						{
-						"author": "Matt Fidoe",
+			},
+			{
+			"author": "Matt Fidoe",
                         "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material2.jpg",
                         "name": "Material2"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material3.jpg",
+                        "name": "Material3"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material4.jpg",
+                        "name": "Material4"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material5.jpg",
+                        "name": "Material5"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material6.jpg",
+                        "name": "Material6"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material7.jpg",
+                        "name": "Material7"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material8.jpg",
+                        "name": "Material8"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material9.jpg",
+                        "name": "Material9"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material10.jpg",
+                        "name": "Material10"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material11.jpg",
+                        "name": "Material11"
+			},
+			{
+			"author": "Matt Fidoe",
+                        "url": "https://raw.githubusercontent.com/Bogmat20/BoxLine/master/Wallpapers/Tapet_Material12.jpg",
+                        "name": "Material12"
+
                     }
           ]
 }
